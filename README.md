@@ -23,7 +23,9 @@ Apache License 2.0
 PySide6  
 LGPLv3  
 Distribution and commercial use are permitted.(配布、商用利用が可能です。)  
+  
 ---
+  
 ［appreciation（感謝）］  
 Developer of Python(programming language)  
 Python Software Foundation and the community  
