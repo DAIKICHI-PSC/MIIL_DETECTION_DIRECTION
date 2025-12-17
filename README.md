@@ -1,7 +1,7 @@
 # MIIL_DETECTION_DIRECTION
 Directional selection AI (Yolov3, Yolov4)  
 方向選別用AI(Yolov3、Yolov4)
----
+  
 ［ライセンス］  
 本プログラム  
 MIT LISENCE  
