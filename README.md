@@ -19,6 +19,10 @@ MIT LISENCE
 OpenCV  
 Apache License 2.0  
 配布、改変、商用利用等、全て自由です。  
+
+PySide6  
+LGPLv3  
+Distribution and commercial use are permitted.(配布、商用利用が可能です。)  
 ---
 ［appreciation（感謝）］  
 Developer of Python(programming language)  
@@ -36,3 +40,7 @@ https://github.com/AlexeyAB
 Developer of image processing module  
 OpenCV and the community  
 https://github.com/opencv  
+
+Developer of GUI module  
+The Qt Company  
+https://www.qt.io/ja-jp/  
